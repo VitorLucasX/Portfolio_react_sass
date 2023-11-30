@@ -1,0 +1,21 @@
+@use '../variables'
+
+#portfolio
+      display: flex
+      flex-wrap: wrap
+      padding: 3rem
+      gap: 3rem
+
+      h1
+          color: variables.$text-color
+          width: 100%
+          font-size: 5rem
+          margin-bottom: 4rem
+          padding: 20px
+          font-style: italic
+          background-color: variables.$bg-color
+
+          @media screen and (max-width: 500px)
+            text-align: center
+            font-size: 3.5rem
+            margin-bottom: 1rem
