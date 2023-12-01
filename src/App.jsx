@@ -6,7 +6,7 @@ import "./styles/components/app.sass"
 function App() {
   return (
       <div id='portfolio'>
-        <h1>Vitor Lucas</h1>
+        <h1 className='animate__animated animate__fadeInLeft'>Vitor Lucas</h1>
         <SideBar />
         <MainContent />
       </div>

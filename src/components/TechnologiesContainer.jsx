@@ -10,12 +10,12 @@ import {
 import '../styles/components/technologies.sass'
 
 const technologies = [
-  { id: "html", name: "HTML5", icon: <DiHtml5/>},
-  { id: "css", name: "CSS3", icon: <DiCss3/>},
-  { id: "sass", name: "SASS", icon: <DiSass />},
-  { id: "js", name: "JavaScript", icon: <DiJsBadge/>},
-  { id: "react", name: "React", icon: <DiReact/>},
-  { id: "git", name: "Git", icon: <DiGit />},
+  { id: "html", name: "HTML5", icon: <DiHtml5 className='animate__animated animate__fadeInRight'/>},
+  { id: "css", name: "CSS3", icon: <DiCss3 className='animate__animated animate__fadeInRight'/>},
+  { id: "sass", name: "SASS", icon: <DiSass className='animate__animated animate__fadeInRight' />},
+  { id: "js", name: "JavaScript", icon: <DiJsBadge className='animate__animated animate__fadeInRight'/>},
+  { id: "react", name: "React", icon: <DiReact className='animate__animated animate__fadeInRight'/>},
+  { id: "git", name: "Git", icon: <DiGit className='animate__animated animate__fadeInRight' />},
 ]
 
 const TechnologiesContainer = () => {
