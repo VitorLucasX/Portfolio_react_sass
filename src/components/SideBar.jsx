@@ -1,7 +1,7 @@
 import SocialNetworks from './SocialNetworks'
 import InformationContainer from './InformationContainer'
 
-import Avatar from '../img/testando.png'
+import Avatar from '../img/profile.png'
 
 import '../styles/components/sidebar.sass'
 
