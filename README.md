@@ -9,5 +9,6 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" align="center">
 </div>
 
-<br>Projeto contém formação, habilidades e projetos em destaque. Feito em reactjs sass e biblioteca externa de animações.
+<br>Projeto contém formação, habilidades e projetos em destaque. Feito em reactjs, sass e biblioteca externa de animações.
 
+![portfolioprint](https://github.com/VitorLucasX/portfolio_react_sass/assets/126624364/12a8d19a-baeb-45e2-b0c3-d410d1c25e41)
